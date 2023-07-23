@@ -1,4 +1,4 @@
 ### Hi there 👋
-- 🥳 My name is Albert and I am a senior undergradute from Tianjin University.
-- 🙃 I am an incoming P.h.D candidate at PKU.
+- 🥳 My name is Zhihao Gong.
+- 🙃 I am an incoming Ph.D. candidate at PKU.
 - 🔭 My research focus is on Software Engineering.
