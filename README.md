@@ -1,4 +1,4 @@
 ### Hi there 👋
-- 🥳 My name is Zhihao Gong.
-- 🙃 I am an incoming Ph.D. candidate at PKU.
-- 🔭 My research focus is on Software Engineering.
+- 🥳 My name is Zhihao Gong(志豪 贡). Gong is my last name and its pronunciation (/gòng/) is like/gu:ŋ/.
+- 🙃 I have been a Ph.D. student at Peking University since Step. 2023.
+- 🔭 My research focus is on Software Engineering and its synergy with Code Models.
